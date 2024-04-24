@@ -13,7 +13,7 @@ This is our group's Mini Project for SC1015/CE1115/CZ1115 - Introduction to Data
    
 ## Contributors
 - @TheWikiZ
-- @KW
+- @KWENN13
 - @Velosion
 
 ## Problem Definition
