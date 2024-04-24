@@ -1,14 +1,14 @@
 # grades-analysis-project
 ## About
 This is our group's Mini Project for SC1015/CE1115/CZ1115 - Introduction to Data Science and Artificial Intelligence, which focuses on grades extracted from [student's performance on Kaggle](https://www.kaggle.com/datasets/whenamancodes/student-performance/data). For detailed walkthrough, please view the source code in order from:
-    1. [Data Cleaning]
-    2. [Data Visualisation]
-    3. [Data Sampling and Splitting]
-    4. [Initial Model Observation]
-    5. [Logistic Regression]
-    6. [Random Forest]
-    7. [Gradient Boosting]
-    8. [Support Vector Machine (Linear)]
+    1. [Data Cleaning](https://github.com/TheWikiZ/grades-analysis-project/blob/main/Data%20Cleaning%20.ipynb)
+    2. [Data Visualisation](https://github.com/TheWikiZ/grades-analysis-project/blob/main/Data-Visualisation.ipynb)
+    3. [Data Splitting](https://github.com/TheWikiZ/grades-analysis-project/blob/main/Data-Splitting.ipynb)
+    4. [Initial Model Observation](https://github.com/TheWikiZ/grades-analysis-project/blob/main/Initial-Model-Observation.ipynb)
+    5. [Logistic Regression](https://github.com/TheWikiZ/grades-analysis-project/blob/main/Logistic-Regression.ipynb)
+    6. [Random Forest](https://github.com/TheWikiZ/grades-analysis-project/blob/main/Random-Forest.ipynb)
+    7. [Gradient Boosting](https://github.com/TheWikiZ/grades-analysis-project/blob/main/Gradient-Boosting.ipynb)
+    8. [XGBoost](https://github.com/TheWikiZ/grades-analysis-project/blob/main/XGB-Model.ipynb)
 
 ## Contributors
 - @TheWikiZ
@@ -23,16 +23,20 @@ This is our group's Mini Project for SC1015/CE1115/CZ1115 - Introduction to Data
   1. Logistic Regression
   2. Random Forest
   3. Gradient Boosting
-  4. Support Vector Machine (Linear)
+  4. XGBoost
 
 ## Conclusion 
-- (which model) is the best
-- Blah blah
-- Blah
+- 
+- Since the 'Average' class results were the most, the models were able to predict the results very well for those but not so much for the 'High' and 'Low' classes as there were lesser data for those 2 classes.
+- Different models had their own different factors which they thought were the most important.
 
 ## What we learned
-- Blah
-- Blah
+- Logistic Regression
+- RandomForest Classifier
+- Gradient Boosting
+- XGBoost
+- Concepts about Precision, Recall, and F1 Score
+- Concepts about Macro & Weighted Average, Support
 
 ## References
 1. <https://www.kaggle.com/datasets/whenamancodes/student-performance/data>
