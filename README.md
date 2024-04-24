@@ -9,6 +9,8 @@ This is our group's Mini Project for SC1015/CE1115/CZ1115 - Introduction to Data
 6. [Random Forest](https://github.com/TheWikiZ/grades-analysis-project/blob/main/Random-Forest.ipynb)
 7. [Gradient Boosting](https://github.com/TheWikiZ/grades-analysis-project/blob/main/Gradient-Boosting.ipynb)
 8. [XGBoost](https://github.com/TheWikiZ/grades-analysis-project/blob/main/XGB-Model.ipynb)
+
+   
 ## Contributors
 - @TheWikiZ
 - @KW
@@ -43,3 +45,4 @@ This is our group's Mini Project for SC1015/CE1115/CZ1115 - Introduction to Data
 2. <https://www.kaggle.com/code/sharonyaroshetsky/annual-grades-average-5-level-classification>
 3. <https://www.kaggle.com/code/archit9406/student-performance-analysis>
 4. <https://archive.ics.uci.edu/dataset/320/student+performance>
+5. <https://towardsdatascience.com/a-brief-introduction-to-xgboost-3eaee2e3e5d6#:~:text=XGBoost%20vs%20Gradient%20Boosting,which%20improves%20model%20generalization%20capabilities.>
