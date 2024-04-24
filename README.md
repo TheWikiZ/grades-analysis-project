@@ -13,7 +13,7 @@ This is our group's Mini Project for SC1015/CE1115/CZ1115 - Introduction to Data
 ## Contributors
 - @TheWikiZ
 - @KW
-- @CL
+- @Velosion
 
 ## Problem Definition
 - Are we able to predict the grades of a student based on the different circumstances?
@@ -35,6 +35,7 @@ This is our group's Mini Project for SC1015/CE1115/CZ1115 - Introduction to Data
 - Blah
 
 ## References
-1. Blah
-2. Blah
-3. Blah
+1. <https://www.kaggle.com/datasets/whenamancodes/student-performance/data>
+2. <https://www.kaggle.com/code/sharonyaroshetsky/annual-grades-average-5-level-classification>
+3. <https://www.kaggle.com/code/archit9406/student-performance-analysis>
+4. 
