@@ -9,7 +9,6 @@ This is our group's Mini Project for SC1015/CE1115/CZ1115 - Introduction to Data
 6. [Random Forest](https://github.com/TheWikiZ/grades-analysis-project/blob/main/Random-Forest.ipynb)
 7. [Gradient Boosting](https://github.com/TheWikiZ/grades-analysis-project/blob/main/Gradient-Boosting.ipynb)
 8. [XGBoost](https://github.com/TheWikiZ/grades-analysis-project/blob/main/XGB-Model.ipynb)
-
 ## Contributors
 - @TheWikiZ
 - @KW
