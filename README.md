@@ -1,14 +1,14 @@
 # grades-analysis-project
 ## About
 This is our group's Mini Project for SC1015/CE1115/CZ1115 - Introduction to Data Science and Artificial Intelligence, which focuses on grades extracted from [student's performance on Kaggle](https://www.kaggle.com/datasets/whenamancodes/student-performance/data). For detailed walkthrough, please view the source code in order from:
-    1. [Data Cleaning](https://github.com/TheWikiZ/grades-analysis-project/blob/main/Data%20Cleaning%20.ipynb)
-    2. [Data Visualisation](https://github.com/TheWikiZ/grades-analysis-project/blob/main/Data-Visualisation.ipynb)
-    3. [Data Splitting](https://github.com/TheWikiZ/grades-analysis-project/blob/main/Data-Splitting.ipynb)
-    4. [Initial Model Observation](https://github.com/TheWikiZ/grades-analysis-project/blob/main/Initial-Model-Observation.ipynb)
-    5. [Logistic Regression](https://github.com/TheWikiZ/grades-analysis-project/blob/main/Logistic-Regression.ipynb)
-    6. [Random Forest](https://github.com/TheWikiZ/grades-analysis-project/blob/main/Random-Forest.ipynb)
-    7. [Gradient Boosting](https://github.com/TheWikiZ/grades-analysis-project/blob/main/Gradient-Boosting.ipynb)
-    8. [XGBoost](https://github.com/TheWikiZ/grades-analysis-project/blob/main/XGB-Model.ipynb)
+1. [Data Cleaning](https://github.com/TheWikiZ/grades-analysis-project/blob/main/Data%20Cleaning%20.ipynb)
+2. [Data Visualisation](https://github.com/TheWikiZ/grades-analysis-project/blob/main/Data-Visualisation.ipynb)
+3. [Data Splitting](https://github.com/TheWikiZ/grades-analysis-project/blob/main/Data-Splitting.ipynb)
+4. [Initial Model Observation](https://github.com/TheWikiZ/grades-analysis-project/blob/main/Initial-Model-Observation.ipynb)
+5. [Logistic Regression](https://github.com/TheWikiZ/grades-analysis-project/blob/main/Logistic-Regression.ipynb)
+6. [Random Forest](https://github.com/TheWikiZ/grades-analysis-project/blob/main/Random-Forest.ipynb)
+7. [Gradient Boosting](https://github.com/TheWikiZ/grades-analysis-project/blob/main/Gradient-Boosting.ipynb)
+8. [XGBoost](https://github.com/TheWikiZ/grades-analysis-project/blob/main/XGB-Model.ipynb)
 
 ## Contributors
 - @TheWikiZ
