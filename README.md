@@ -29,7 +29,7 @@ This is our group's Mini Project for SC1015/CE1115/CZ1115 - Introduction to Data
 ## Conclusion 
 - Since the 'Average' class results were the most, the models were able to predict the results very well for those but not so much for the 'High' and 'Low' classes as there were lesser data for those 2 classes.
 - Different models had their own different factors which they thought were the most important.
--**We did manage to predict the results based on one’s circumstance, but this should not be taken seriously as we believe that one’s success originates from their own hard work.**
+- **We did manage to predict the results based on one’s circumstance, but this should not be taken seriously as we believe that one’s success originates from their own hard work.**
 
 
 ## What we learned
